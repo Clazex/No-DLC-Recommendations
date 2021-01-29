@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"cwtools.errors.ignore": [
+			"CW113",
+			"CW240",
+			"CW242",
+			"CW264"
+		],
+		"cwtools.ignore_patterns": [
+			"gfx/fonts/**"
+		],
+		"importCost.timeout": 15000,
+	}
+}

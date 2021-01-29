@@ -1,0 +1,28 @@
+{
+	"name": "no-dlc-recommendations",
+	"version": "1.0.0",
+	"description": "A UI Mod for Stellaris",
+	"license": "Apache-2.0",
+	"author": "Clazex <clazxex.y@gmail.com>",
+	"scripts": {
+		"build": "gulp build",
+		"test": "npm run lint && npm run build",
+		"lint": "eslint --ext .js ./",
+		"fix": "npm run lint -- --fix",
+		"clean": "gulp clean"
+	},
+	"dependencies": {
+		"esm": "^3.2.25",
+		"fs-extra": "^9.0.1",
+		"gulp": "^4.0.2",
+		"gulp-load-plugins": "^2.0.6",
+		"gulp-plumber": "^1.2.1",
+		"gulp-zip": "^5.0.2"
+	},
+	"devDependencies": {
+		"eslint": "^6.8.0",
+		"eslint-config-lux": "0.0.13",
+		"eslint-plugin-import": "^2.22.1",
+		"eslint-plugin-promise": "^4.2.1"
+	}
+}

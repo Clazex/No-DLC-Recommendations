@@ -1,0 +1,14 @@
+{
+	"recommendations": [
+		"clazex.lux-pack",
+		"axetroy.vscode-changelog-generator",
+		"tboby.cwtools-vscode",
+		"mgmcdermott.vscode-language-babel",
+		"dbaeumer.vscode-eslint",
+		"wix.vscode-import-cost",
+		"xabikos.javascriptsnippets",
+		"eg2.vscode-npm-script",
+		"jasonnutter.search-node-modules",
+		"meganrogge.template-string-converter"
+	]
+}
