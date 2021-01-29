@@ -1,0 +1,13 @@
+A small mod to disable the annoying DLC recommendations in empire selection screen.
+
+This mod only modifies the interface and is achievement & save-game compatible.
+
+Compatible with [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1623423360]UI Overhaul Dynamic[/url], [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2094499750]AlphaMod: C.U.I.[/url], etc.
+
+Load Orders:
+  1. Other UI mods
+  2. This mod
+
+Non-Steam version: [url=https://github.com/Clazex/No-DLC-Recommendations/blob/main/README.md]Releases[/url]
+
+Source Repository: [url=https://github.com/Clazex/No-DLC-Recommendations]GitHub[/url]

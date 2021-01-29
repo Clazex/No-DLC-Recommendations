@@ -1,0 +1,13 @@
+一个用于禁用国家选择界面的烦人的 DLC 推荐的小模组。
+
+此模组仅修改界面，兼容成就和旧存档。
+
+与 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1623423360]UI Overhaul Dynamic[/url]、[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2094499750]AlphaMod: C.U.I.[/url] 等等兼容。
+
+加载顺序：
+  1. 其它 UI 模组
+  2. 本模组
+
+非 Steam 版：[url=https://github.com/Clazex/No-DLC-Recommendations/blob/main/README.zh-cn.md]发布页[/url]
+
+源代码仓库：[url=https://github.com/Clazex/No-DLC-Recommendations]GitHub[/url]
