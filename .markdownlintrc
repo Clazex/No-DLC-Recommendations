@@ -1,0 +1,28 @@
+{
+	"$schema": "https://cdn.jsdelivr.net/gh/DavidAnson/markdownlint/schema/markdownlint-config-schema.json",
+	"default": true,
+	"MD003": {
+		"style": "atx"
+	},
+	"MD004": {
+		"style": "sublist"
+	},
+	"MD012": {
+		"maximum": 3
+	},
+	"MD013": false,
+	"MD026": {
+		"punctuation": ".,;:。，；："
+	},
+	"MD029": false,
+	"MD033": false,
+	"MD035": {
+		"style": "---"
+	},
+	"MD046": {
+		"style": "fenced"
+	},
+	"MD048": {
+		"style": "backtick"
+	}
+}
