@@ -1,0 +1,15 @@
+# Stale bot
+daysUntilStale: 60
+daysUntilClose: 7
+
+exemptLabels:
+  - announcement
+  - pinned
+  - security
+staleLabel: stale
+
+markComment: >
+  This issue has been automatically marked as stale because it has not had
+  activity in 60 days. It will be closed if no further activity occurs in 7
+  days. Thank you for your contributions.
+closeComment: false
